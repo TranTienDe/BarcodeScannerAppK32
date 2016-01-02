@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comp.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\comp.png"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\find.png"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\drawable\\logo.png"
+    }
+]

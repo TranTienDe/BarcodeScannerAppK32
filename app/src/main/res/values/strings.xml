@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Barcode Scanner</string>    
+    <string name="action_submit">Submit</string>   
+    <string name="title">Sending...</string>
+    <string name="message">Please wait !</string>
+    
+     <!-- network -->
+   <string name="check_network">Internet not connect. Please check the wifi or 3G.</string> 
+    
+   <string name="msg_title_edit_material">Edit material</string>
+   <string name="msg_title_setting">Setting</string>
+
+</resources>

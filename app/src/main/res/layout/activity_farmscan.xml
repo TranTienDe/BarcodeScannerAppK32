@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/HorizontalScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none" >
+    
+    <HorizontalScrollView
+     	 android:layout_width="fill_parent"
+	   	 android:layout_height="fill_parent"
+	   	 android:fillViewport="true"
+	   	 android:scrollbars="none"					    	 			    	 
+     	   >   
+     	   	<LinearLayout 
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             >   
+		         	<LinearLayout 
+		             android:layout_width="match_parent"
+		             android:layout_height="wrap_content"
+		             android:orientation="vertical"
+		             >
+					    <TableLayout 
+						    android:id="@+id/tbProducts"
+						    android:layout_width="wrap_content"
+						    android:layout_height="wrap_content"
+						    android:stretchColumns="1"	
+						    android:layout_marginBottom="10dp"	    
+						    ></TableLayout>	
+					 	<RelativeLayout
+					        android:id="@+id/relativeLayout1"
+					        android:layout_width="fill_parent"
+					        android:layout_height="wrap_content"
+					         >			            
+				             <TextView
+				                 android:id="@+id/txtStatusScan"
+				                 android:layout_width="400dp"
+				             	 android:layout_height="wrap_content"
+				             	 android:layout_gravity="start"
+				             	 android:textColor="@android:color/background_dark"
+				             	 android:text=" Status: scanning..."
+				                 />
+				             <Button
+				                 android:id="@+id/btSetting"
+							     android:layout_width="wrap_content"
+							     android:layout_height="wrap_content"
+							     android:layout_alignParentRight="true"							     
+							     android:layout_marginRight="80dp"
+							     android:layout_marginBottom="0dp"							     
+							     android:text="Setting" 
+				                 />
+							  <Button
+							       android:id="@+id/btSave"
+							       android:layout_width="wrap_content"
+							       android:layout_height="wrap_content"
+							       android:layout_alignParentRight="true"							      
+							       android:layout_marginRight="5dp"
+							       android:layout_marginBottom="2dp"
+							       android:visibility="invisible"
+							       android:text="Save" />							
+						</RelativeLayout>
+					</LinearLayout>
+			</LinearLayout>
+		</HorizontalScrollView>	 
+</ScrollView>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="average_Backg">#60000000</color>
+    <color name="average_text">#037e72</color>
+    
+    <color name="background_japfa">#d05603</color>
+    <color name="background_japfa2">#fcb07c</color>
+    <color name="background_japfa3">#f7e3d5</color>
+    <color name="background_japfa4">#ff9e00</color>
+    <color name="background_japfa5">#b4b3b0</color>
+    <color name="background_japfa6">#d96d23</color>
+    <color name="background_layout">#888888</color>
+    <color name="text_color_yellow">#037e72</color>
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="text_color_black">#000000</color> 
+    <color name="text_color_blue">#33b5e5</color>
+    
+   
+</resources>

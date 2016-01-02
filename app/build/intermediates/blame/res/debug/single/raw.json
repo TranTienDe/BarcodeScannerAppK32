@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\raw\\effect_tick.ogg",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\raw\\effect_tick.ogg"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\raw\\keypressdelete.ogg",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\raw\\keypressdelete.ogg"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\raw\\keypressreturn.ogg",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\raw\\keypressreturn.ogg"
+    }
+]

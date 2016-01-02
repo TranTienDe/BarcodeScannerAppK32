@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farmhd.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_farmhd.xml"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farmscan.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_farmscan.xml"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tblheader.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_tblheader.xml"
+    },
+    {
+        "merged": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\GroBest\\android\\AndroidStudio\\BarcodeScannerAppK321\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    }
+]
